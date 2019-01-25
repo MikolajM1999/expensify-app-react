@@ -5,6 +5,13 @@ git add - Add files to staging area
 git commit - Creates a new commit with files from staging area
 git log - View recent commits
 
+adding:
+1. git status
+2. git add .
+3. git status
+4. git commit -m "type message here what changed"
+5. git push
+
 # Jest Commands
 yarn test -- --watch - Running your tests code files with watch mode for changes
 w - After done tests you can press w to see more options
