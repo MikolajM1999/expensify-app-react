@@ -25,6 +25,7 @@ Take a look on package.json "scripts": {
 heroku create name-of-app - create
 git remote - to see whats there
 git remote -v - to see with details
+
 git status
 git add .
 git commit -m ""
