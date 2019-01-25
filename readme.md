@@ -20,3 +20,8 @@ w - After done tests you can press w to see more options
 Take a look on package.json "scripts": {
     there are the commands
 }
+
+# Heroku
+heroku create name-of-app - create
+git remote - to see whats there
+git remote -v - to see with details
