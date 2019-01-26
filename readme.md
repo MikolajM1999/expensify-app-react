@@ -25,6 +25,7 @@ adding:
 2. git remote - to see whats there
 3. git remote -v - to see with details
 
+upgrading existing one:
 1. git status
 2. git add .
 3. git commit -m ""
