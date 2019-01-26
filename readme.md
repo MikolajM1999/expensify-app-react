@@ -33,5 +33,5 @@ git push
 git push heroku master
 
 # Yarn
-yarn install --production - do produkcji czyli końcowe
-yarn install - do developmentu czyli tworzenia
+yarn install --production - to finish your project
+yarn install - to development mode
