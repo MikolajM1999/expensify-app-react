@@ -1,11 +1,11 @@
 # Git Commands
-1. git init - Create a new git repo
+1. git init - Create a new git repository
 2. git status - View the changes to your project code
 3. git add - Add files to staging area
 4. git commit - Creates a new commit with files from staging area
 5. git log - View recent commits
 
-adding:
+# adding:
 1. git status
 2. git add .
 3. git status
@@ -25,7 +25,7 @@ adding:
 2. git remote - to see whats there
 3. git remote -v - to see with details
 
-upgrading existing one:
+# upgrading existing one:
 1. git status
 2. git add .
 3. git commit -m ""
@@ -33,5 +33,8 @@ upgrading existing one:
 5. git push heroku master - deploy it to production
 
 # Yarn
-1. yarn install --production - to finish your project
+1. yarn install --production - to finish your project (?)
 2. yarn install - to development mode
+
+# Legenda:
+1. (?) - Nie wiem czy to nadal funkcjonuje tutaj i myślę że wystarczy tylko upgrading exsisting one.
